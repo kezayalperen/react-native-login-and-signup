@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "16.9.0",
     "react-native": "0.61.0",
     "react-native-country-picker-modal": "^0.8.0",
